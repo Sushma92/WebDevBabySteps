@@ -1,0 +1,25 @@
+body{
+	border:20px solid gray;
+	padding: 20px;
+	width: 700px;
+	margin: 0 auto;
+	font-family: Source Sans Pro;
+	
+}
+
+
+h4{
+	text-transform: uppercase;
+	color:blue;
+	letter-spacing: 0.2rem;
+}
+
+p:nth-of-type(1){
+	border-left: 5px solid gray;
+	padding: 5px;
+
+}
+p{
+	font-size: 20px;
+	font-family: Source Sans Pro;
+}
